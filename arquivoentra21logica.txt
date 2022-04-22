@@ -30,7 +30,7 @@ Atribuição: è o dado atribuido a uma variavel.
 Comentarios: São trechos de caracteres escritos dentro do algoritmo. Servem para aumentar a clareza do codigo. Operador de comentario em Java, PHP e C++: 
 para uma linha: //
 Para comentar um trecho: /* no inicio do trecho e */ no final
-final
+
 
 
 
